@@ -23,7 +23,7 @@ https://github.com/KazuKaku/2ServoFlapOrnithopter
 ![Wiring](https://github.com/KazuKaku/2ServoFlapSystem_on_-ChineseButterflyOrnithopter/blob/532a624c456bb52c10deefc4670be8f92c66264a/image/260619%20RP2040-Tiny%20Wiring%20of%20%202ServoFlap%20System.jpg)
 
 
-## motion
+## Wing motion
 
 Refer to the video below for operation. Note that the trim setting method differs.
 
