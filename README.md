@@ -33,6 +33,7 @@ https://www.youtube.com/watch?v=8YyZEEd9J_o
 Because the servo mounting configuration on the Chinese-made butterfly ornithopter differs from the standard setup, the servo connections are reversed.
 
 Connect D5 (Right Servo) to the left servo on the ornithopter body.
+
 Connect D6 (Left Servo) to the right servo on the ornithopter body.
 
 ## Setting of Transmitter 
