@@ -61,6 +61,3 @@ https://github.com/KazuKaku/2ServoFlapOrnithopter
 
 
 
-![230706 ServoFlap system of 2 serevo for Butterfly &DragonFly](/image/230706%20ServoFlap%20system%20of%202%20serevo%20for%20Butterfly%20&DragonFly.jpg)
-
-
