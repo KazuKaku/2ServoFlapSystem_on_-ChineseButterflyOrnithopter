@@ -18,6 +18,9 @@ or RP2040-Zero (supports direct USB-C connection)
 Wiring is the same as the RP2040-Tiny setup shown here:
 https://github.com/KazuKaku/2ServoFlapOrnithopter
 
+![260619 RP2040-Tiny Wiring of  2ServoFlap System](/image/260619 RP2040-Tiny Wiring of  2ServoFlap System.jpg)
+
+
 ## motion
 
 Refer to the video below for operation. Note that the trim setting method differs.
