@@ -26,7 +26,9 @@ https://github.com/KazuKaku/2ServoFlapOrnithopter
 ## motion
 
 Refer to the video below for operation. Note that the trim setting method differs.
+
 260725 motion of Butterfly--china-- and My 2servoFlapOrnithopte Butterfly CODE
+
 https://www.youtube.com/watch?v=8YyZEEd9J_o
 
 ## setting
