@@ -47,7 +47,7 @@ Ch 5: Flapping frequency adjustment.
 
 Ch 6: Aileron sub-trim (flight path correction); set using the transmitter's Ch 6 sub-trim.
 
-
+---------------------------------------------------------------------
 # Next from Github site
 
 https://github.com/KazuKaku/2ServoFlapOrnithopter
