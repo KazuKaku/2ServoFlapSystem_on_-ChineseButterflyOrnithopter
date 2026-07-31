@@ -17,9 +17,12 @@ or RP2040-Zero (supports direct USB-C connection)
 
 Wiring is the same as the RP2040-Tiny setup shown here:
 https://github.com/KazuKaku/2ServoFlapOrnithopter
+
 6V out to RX :6V pin---> correct 5V out to RX :5V pin
 
 ![Wiring](https://github.com/KazuKaku/2ServoFlapSystem_on_-ChineseButterflyOrnithopter/blob/532a624c456bb52c10deefc4670be8f92c66264a/image/260619%20RP2040-Tiny%20Wiring%20of%20%202ServoFlap%20System.jpg)
+
+
 ## motion
 
 Refer to the video below for operation. Note that the trim setting method differs.
