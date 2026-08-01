@@ -18,11 +18,11 @@ or RP2040-Zero (supports direct USB-C connection)
 Wiring is the same as the RP2040-Tiny setup shown here:
 https://github.com/KazuKaku/2ServoFlapOrnithopter
 
-PPM RX
+PPM RX　　sketch_260731SFOfor2ServoV4RP2040LgAmpOneUP
 
 ![Wiringppm](https://github.com/KazuKaku/2ServoFlapSystem_on_-ChineseButterflyOrnithopter/blob/cd36bb3f3799a0289254164455a0e6dc043d0688/image/RP2040-Tiny%20Wiring%20%202SF%20ppm.jpg)
 
-ELRS RX
+ELRS RX　　sketch260801_2ServoFlapOELRSRP2040LgAmponeUP
 
 ![WiringELRS](https://github.com/KazuKaku/2ServoFlapSystem_on_-ChineseButterflyOrnithopter/blob/8092b29b86531493b4d124b12c18665ab4ee7c3b/image/RP2040TinyWiring2SFSELRS.jpg)
 
