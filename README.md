@@ -54,9 +54,13 @@ Scale: 40–50% is recommended.
 
 If the scale is too high, both wings may move simultaneously.
 
-Ch 5: Flapping frequency adjustment.
+ppm RX : Ch 5: Flapping frequency adjustment.
 
-Ch 6: Aileron sub-trim (flight path correction); set using the transmitter's Ch 6 sub-trim.
+ELRS RX : Ch 6: Flapping frequency adjustment.
+
+ppm RX Ch 6: Aileron sub-trim (flight path correction); set using the transmitter's Ch 6 sub-trim.
+
+ppm RX Ch 7: Aileron sub-trim (flight path correction); set using the transmitter's Ch76 sub-trim.
 
 ---------------------------------------------------------------------
 # Please obtain information regarding 2ServoFlapSystem from the following site.
