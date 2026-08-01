@@ -45,7 +45,15 @@ Connect D6 (Left Servo) to the right servo on the ornithopter body.
 
 Ch 1: Moving the stick to the right raises the right wing; the left wing remains stationary. Scale: 30–40%.
 
+　　Keep the center value for Channel 1 at 1500 μs.
+
+　　Adjust the wing tilt using the trim for Channel 6.
+
+　　Adjust the dihedral angle using the trim for Channel 2.
+
 Ch 2: Moving the stick down lowers both wings. Scale: 30–40%.
+
+　　Remove the servo horn and adjust the setting so that the center value is as close to 1500 μs as possible.
 
 Ch 3: Throttle; moving it up increases the flapping amplitude.
 
