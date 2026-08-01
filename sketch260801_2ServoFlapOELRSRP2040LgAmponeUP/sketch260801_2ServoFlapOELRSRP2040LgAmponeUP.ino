@@ -99,7 +99,13 @@ prev_time = current_time;
   elapsed_time = elapsed_time + dt; // total time spent in the main loop since beginning one upstroke/downstroke
 
  rudder=(int)(ch7value-1500);//C7  Flap angle incline-trim- AileronStick
-
+if (ch1value > 1500) {
+    rtrudder = (int)(ch1value-1500);
+     ltrudder = 0;
+  } else{
+  rtrudder = 0; 
+    ltrudder = (int)(ch1value-1500);
+  }
  elevator=(int)(ch2value-1500);//Ch2 Flap Angle bilateral UP&Down
  flapamp=(int)(ch4value-1500);//Ch4 Right and left Flap angle difference from3to2
  delaytime=(int)((ch6value-950)/5);//Ch6 Flapping frequency 
