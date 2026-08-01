@@ -22,6 +22,7 @@ https://github.com/KazuKaku/2ServoFlapOrnithopter
 
 ![Wiring](https://github.com/KazuKaku/2ServoFlapSystem_on_-ChineseButterflyOrnithopter/blob/532a624c456bb52c10deefc4670be8f92c66264a/image/260619%20RP2040-Tiny%20Wiring%20of%20%202ServoFlap%20System.jpg)
 
+![Wiring](/image/RP2040-Tiny Wiring  2SF ppm.jpg)
 
 ## Wing motion
 
