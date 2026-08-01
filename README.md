@@ -58,9 +58,10 @@ Ch 2: Moving the stick down lowers both wings. Scale: 30–40%.
 Ch 3: Throttle; moving it up increases the flapping amplitude.
 
 Ch 4: Difference in flapping amplitude between left and right wings; moving the stick to the right increases the left wing's amplitude (causing a right turn).
-Scale: 40–50% is recommended.
 
-If the scale is too high, both wings may move simultaneously.
+　　Scale: 40–50% is recommended.
+
+　　If the scale is too high, both wings may move simultaneously.
 
 ppm RX : Ch 5: Flapping frequency adjustment.
 
