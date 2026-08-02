@@ -32,7 +32,6 @@ ppm RX and Arduino board
    Wiring of ppm RX and Arduino board 
 
    -- look next site
-
     
 https://github.com/KazuKaku/2ServoFlapOrnithopter
 
