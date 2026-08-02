@@ -26,6 +26,10 @@ ELRS RX　　sketch260801_2ServoFlapOELRSRP2040LgAmponeUP
 
 ![WiringELRS](https://github.com/KazuKaku/2ServoFlapSystem_on_-ChineseButterflyOrnithopter/blob/8092b29b86531493b4d124b12c18665ab4ee7c3b/image/RP2040TinyWiring2SFSELRS.jpg)
 
+Wiring of ppm RX and Arduino board -- look next site
+
+2ServoFlapOrnithopter  https://github.com/KazuKaku/2ServoFlapOrnithopter
+
 ## Wing motion
 
 Refer to the video below for operation. Note that the trim setting method differs.
