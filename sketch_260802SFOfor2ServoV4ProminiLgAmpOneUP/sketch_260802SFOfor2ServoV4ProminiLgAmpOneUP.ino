@@ -103,8 +103,8 @@ ch6value = ppm.rawChannelValue(6);//Ch6
  if (ch3value > 1080) {
 if (elapsed_time < delaytime/1000) {
 
-  servo_comm1 = (int)( (ch3value -1000)/2+1500 + rudder - elevator+ servo_zero1+ flapamp + ltrudder);
-  servo_comm2 = (int)(1000 + (2000 - ((ch3value -1000)/2+1500)) + rudder + elevator- servo_zero2+flapamp + rtrudder);  
+  servo_comm1 = (int)( (ch3value -1000)/1.12+1500 + rudder - elevator+ servo_zero1+ flapamp + ltrudder);
+  servo_comm2 = (int)(1000 + (2000 - ((ch3value -1000)/1.12+1500)) + rudder + elevator- servo_zero2+flapamp + rtrudder);  
    
   servo_left.writeMicroseconds(servo_comm1); // servo position in variable 'pos'
   servo_right.writeMicroseconds(servo_comm2); // servo position in variable 'pos'
@@ -113,8 +113,8 @@ if (elapsed_time < delaytime/1000) {
 
 if ((elapsed_time > delaytime/1000) && ( elapsed_time < (delaytime + delaytime)/1000)) {
 
-servo_comm1 = (int)( (ch3value -1000)/2+1500 + rudder + elevator+ servo_zero1-flapamp + rtrudder);
-  servo_comm2 = (int)(1000 + (2000 - ((ch3value -1000)/2+1500)) + rudder - elevator- servo_zero2-flapamp + ltrudder);  
+servo_comm1 = (int)( (ch3value -1000)/1.12+1500 + rudder + elevator+ servo_zero1-flapamp + rtrudder);
+  servo_comm2 = (int)(1000 + (2000 - ((ch3value -1000)/1.12+1500)) + rudder - elevator- servo_zero2-flapamp + ltrudder);  
 
   servo_left.writeMicroseconds(servo_comm2); // servo position in variable 'pos'
   servo_right.writeMicroseconds(servo_comm1); // servo position in variable 'pos'
