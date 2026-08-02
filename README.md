@@ -33,7 +33,9 @@ ppm RX and Arduino board
 
    -- look next site
 
-    2ServoFlapOrnithopter  https://github.com/KazuKaku/2ServoFlapOrnithopter
+    2ServoFlapOrnithopter  
+    
+    https://github.com/KazuKaku/2ServoFlapOrnithopter
 
 
 ## Wing motion
