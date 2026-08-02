@@ -30,9 +30,9 @@ ELRS RX　　sketch260801_2ServoFlapOELRSRP2040LgAmponeUP
 
 Refer to the video below for operation. Note that the trim setting method differs.
 
-260725 motion of Butterfly--china-- and My 2servoFlapOrnithopte Butterfly CODE
+CODE  for Chinese Butterfly Ornithopter
 
-https://www.youtube.com/watch?v=8YyZEEd9J_o
+https://youtu.be/7gkWegeKj8Q
 
 ## setting
 Because the servo mounting configuration on the Chinese-made butterfly ornithopter differs from the standard setup, the servo connections are reversed.
