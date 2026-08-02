@@ -27,7 +27,7 @@ ELRS RX　　sketch260801_2ServoFlapOELRSRP2040LgAmponeUP
 ![WiringELRS](https://github.com/KazuKaku/2ServoFlapSystem_on_-ChineseButterflyOrnithopter/blob/8092b29b86531493b4d124b12c18665ab4ee7c3b/image/RP2040TinyWiring2SFSELRS.jpg)
 
 
-ppm RX and Arduino board   sketch_260802SFOfor2ServoV4ProminiLgAmpOneUP.ino
+ppm RX and Arduino board        sketch_260802SFOfor2ServoV4ProminiLgAmpOneUP.ino
 
    Wiring of ppm RX and Arduino board 
 
